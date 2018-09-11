@@ -1,0 +1,6 @@
+C:\Users\HNLDream\Desktop\Epicodus Projects\C#\ToDoList.Solution\ToDoList\obj\Debug\netcoreapp2.1\ToDoList.csprojAssemblyReference.cache
+C:\Users\HNLDream\Desktop\Epicodus Projects\C#\ToDoList.Solution\ToDoList\obj\Debug\netcoreapp2.1\ToDoList.csproj.CoreCompileInputs.cache
+C:\Users\HNLDream\Desktop\Epicodus Projects\C#\ToDoList.Solution\ToDoList\obj\Debug\netcoreapp2.1\ToDoList.RazorAssemblyInfo.cache
+C:\Users\HNLDream\Desktop\Epicodus Projects\C#\ToDoList.Solution\ToDoList\obj\Debug\netcoreapp2.1\ToDoList.RazorAssemblyInfo.cs
+C:\Users\HNLDream\Desktop\Epicodus Projects\C#\ToDoList.Solution\ToDoList\obj\Debug\netcoreapp2.1\ToDoList.AssemblyInfoInputs.cache
+C:\Users\HNLDream\Desktop\Epicodus Projects\C#\ToDoList.Solution\ToDoList\obj\Debug\netcoreapp2.1\ToDoList.AssemblyInfo.cs

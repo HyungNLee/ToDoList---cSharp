@@ -5,3 +5,9 @@ C:\Users\Ryan Lee\Desktop\Epicodus\C#\ToDoList.Solution\ToDoList\obj\Debug\netco
 C:\Users\Ryan Lee\Desktop\Epicodus\C#\ToDoList.Solution\ToDoList\obj\Debug\netcoreapp1.1\ToDoList.AssemblyInfo.cs
 C:\Users\Ryan Lee\Desktop\Epicodus\C#\ToDoList.Solution\ToDoList\obj\Debug\netcoreapp1.1\ToDoList.dll
 C:\Users\Ryan Lee\Desktop\Epicodus\C#\ToDoList.Solution\ToDoList\obj\Debug\netcoreapp1.1\ToDoList.pdb
+C:\Users\HNLDream\Desktop\Epicodus Projects\C#\ToDoList.Solution\ToDoList\obj\Debug\netcoreapp1.1\ToDoList.csprojAssemblyReference.cache
+C:\Users\HNLDream\Desktop\Epicodus Projects\C#\ToDoList.Solution\ToDoList\obj\Debug\netcoreapp1.1\ToDoList.csproj.CoreCompileInputs.cache
+C:\Users\HNLDream\Desktop\Epicodus Projects\C#\ToDoList.Solution\ToDoList\obj\Debug\netcoreapp1.1\ToDoList.AssemblyInfoInputs.cache
+C:\Users\HNLDream\Desktop\Epicodus Projects\C#\ToDoList.Solution\ToDoList\obj\Debug\netcoreapp1.1\ToDoList.AssemblyInfo.cs
+C:\Users\HNLDream\Desktop\Epicodus Projects\C#\ToDoList.Solution\ToDoList\obj\Debug\netcoreapp1.1\ToDoList.dll
+C:\Users\HNLDream\Desktop\Epicodus Projects\C#\ToDoList.Solution\ToDoList\obj\Debug\netcoreapp1.1\ToDoList.pdb
