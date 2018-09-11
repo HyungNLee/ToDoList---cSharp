@@ -11,3 +11,6 @@ C:\Users\HNLDream\Desktop\Epicodus Projects\C#\ToDoList.Solution\ToDoList\obj\De
 C:\Users\HNLDream\Desktop\Epicodus Projects\C#\ToDoList.Solution\ToDoList\obj\Debug\netcoreapp1.1\ToDoList.AssemblyInfo.cs
 C:\Users\HNLDream\Desktop\Epicodus Projects\C#\ToDoList.Solution\ToDoList\obj\Debug\netcoreapp1.1\ToDoList.dll
 C:\Users\HNLDream\Desktop\Epicodus Projects\C#\ToDoList.Solution\ToDoList\obj\Debug\netcoreapp1.1\ToDoList.pdb
+C:\Users\Ryan Lee\Desktop\Epicodus\C#\ToDoList.Solution\ToDoList\bin\Debug\netcoreapp1.1\ToDoList.runtimeconfig.json
+C:\Users\Ryan Lee\Desktop\Epicodus\C#\ToDoList.Solution\ToDoList\bin\Debug\netcoreapp1.1\ToDoList.runtimeconfig.dev.json
+C:\Users\Ryan Lee\Desktop\Epicodus\C#\ToDoList.Solution\ToDoList\obj\Debug\netcoreapp1.1\ToDoList.csprojResolveAssemblyReference.cache

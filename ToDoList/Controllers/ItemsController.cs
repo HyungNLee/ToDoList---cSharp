@@ -7,7 +7,7 @@ namespace ToDoList.Controllers
     public class ItemsController : Controller
     {
 
-        [HttpPost("/items")]
+        [HttpGet("/items")]
         public ActionResult Index()
         {
             List<Item> allItems = new List<Item> {};
@@ -25,7 +25,7 @@ namespace ToDoList.Controllers
         public ActionResult Create()
         {
             Item newItem = new Item(Request.Form["new-item"]);
-            List<Item> allItems = new List<Item> {};
+            List<Item> allItems = new List<Item> {newItem};
             return View("Index", allItems);
         }
 
